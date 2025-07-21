@@ -3,9 +3,8 @@
 A browser-based web scraper built with JavaScript/Node.js (or Python), featuring:
 
 - User-friendly UI to input target URLs  
-- Customizable scraping rules (CSS/XPath selectors)  
-- Display results in-browser and export as JSON/CSV  
-- Optional: headless scraping via Puppeteer/Playwright  
+- Customizable scraping rules   
+- Display results in-browser and export as  CSV    
 - Handles pagination, retries, rate-limiting
 
 ---
